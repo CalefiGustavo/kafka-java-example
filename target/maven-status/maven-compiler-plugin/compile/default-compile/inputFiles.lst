@@ -1,0 +1,13 @@
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/services/impl/EmailService.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/runners/FraudDetectorRunner.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/utils/PropertiesConstants.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/runners/LogRunner.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/dispatchers/KafkaDispatcher.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/runners/EmailRunner.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/utils/GsonSerializer.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/models/Order.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/services/impl/FraudDetectorService.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/services/impl/LogService.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/NewOrderMain.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/utils/LoremIpsum.java
+/home/gustavocalefi/Documentos/projetos/kafka/src/main/java/br/com/paygo/kafka/services/KafkaService.java

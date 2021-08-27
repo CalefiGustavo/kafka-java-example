@@ -1,0 +1,6 @@
+br/com/paygo/kafka/dispatchers/KafkaDispatcher.class
+br/com/paygo/kafka/services/KafkaService.class
+br/com/paygo/kafka/runners/LogRunner.class
+br/com/paygo/kafka/utils/PropertiesConstants.class
+br/com/paygo/kafka/services/impl/EmailService.class
+br/com/paygo/kafka/runners/FraudDetectorRunner.class
